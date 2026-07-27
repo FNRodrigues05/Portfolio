@@ -1,3 +1,6 @@
 # Ignorar bibliotecas x3dom e threejs em qualquer parte do repositorio
 **/lib/x3dom/** linguist-vendored
 **/lib/threejs/** linguist-vendored
+
+# Ignorar ficheiros internos do motor de jogo (Unity/Mono)
+**/MonoBleedingEdge/** linguist-vendored
