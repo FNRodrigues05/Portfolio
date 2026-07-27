@@ -1,0 +1,66 @@
+{
+  "@@locale": "en",
+  "appTitle": "Pokedex",
+  "searchLabel": "Search for Pokemon!",
+  "favoritesTitle": "Favorite Pokemon ",
+  "addedFavorites": "The Pokemon {pokemon} was added to favorites!",
+  "@addedFavorites": {
+    "pokemon": {
+      "type": "String"
+    }
+  },
+  "removedFavorites": "The Pokemon {pokemon} was removed from favorites!",
+  "@removedFavorites": {
+    "pokemon": {
+      "type": "String"
+    }
+  },
+  "detailsPageTitle": "{pokemon} Details",
+  "@detailsPageTitle": {
+    "pokemon": {
+      "type": "String"
+    }
+  },
+  "evolutionChain": "Evolution Chain",
+  "favoritesButtonTooltip": "Favorites",
+  "addFavoriteButtonTooltip": "Add to Favorites",
+  "removeFavoriteButtonTooltip": "Remove from Favorites",
+  "searchButtonTooltip": "Search",
+  "closeSearchButtonTooltip": "Close Search",
+  "lightModeButtonTooltip": "Light Mode",
+  "darkModeButtonTooltip": "Dark Mode",
+  "cryButtonToolTip": "Hear Scream",
+  "favoritesNotFound": "No Favorites Yet",
+  "pokemonNotFound": "No Pokemon Found",
+  "pokemonLoadingError": "Erro Loading Pokemons",
+  "error": "Error",
+  "physicalTraits": "Physical Traits",
+  "baseStats": "Base Stats",
+  "height": "Height",
+  "weight": "Weight",
+  "pokeHP": "HP",
+  "pokeAttack": "Attack",
+  "pokeDefense": "Defense",
+  "pokeSpeed": "Speed",
+  "pokeSpecialAttack": "Sp-Attack",
+  "pokeSpecialDefense": "Sp-Defense",
+  "everyType": "All Types",
+  "normal": "Normal",
+  "fire": "Fire",
+  "grass": "Grass",
+  "water": "Water",
+  "electric": "Electric",
+  "ice": "Ice",
+  "fighting": "Fighting",
+  "poison": "Poison",
+  "ground": "Ground",
+  "flying": "Flying",
+  "psychic": "Psychic",
+  "bug": "Bug",
+  "rock": "Rock",
+  "ghost": "Ghost",
+  "fairy": "Fairy",
+  "dark": "Dark",
+  "dragon": "Dragon",
+  "steel": "Steel"
+}

@@ -1,0 +1,66 @@
+{
+  "@@locale": "es",
+  "appTitle": "Pokédex",
+  "searchLabel": "Busca al Pokémon!",
+  "favoritesTitle": "Pokémon Favoritos",
+  "addedFavorites": "El Pokémon {pokemon} se ha añadido a los Favoritos!",
+  "@addedFavorites": {
+    "pokemon": {
+      "type": "String"
+    }
+  },
+  "removedFavorites": "El Pokémon {pokemon} se ha eliminado de los Favoritos!",
+  "@removedFavorites": {
+    "pokemon": {
+      "type": "String"
+    }
+  },
+  "detailsPageTitle": "Detalles de {pokemon}",
+  "@detailsPageTitle": {
+    "pokemon": {
+      "type": "String"
+    }
+  },
+  "evolutionChain": "Línea Evolutiva",
+  "favoritesButtonTooltip": "Favoritos",
+  "addFavoriteButtonTooltip": "Añadir a Favorito",
+  "removeFavoriteButtonTooltip": "Quitar de Favorito",
+  "searchButtonTooltip": "Buscar",
+  "closeSearchButtonTooltip": "Cerrar Búsqueda",
+  "lightModeButtonTooltip": "Modo Claro",
+  "darkModeButtonTooltip": "Modo Oscuro",
+  "cryButtonToolTip": "Escuchar Grito",
+  "favoritesNotFound": "Aún no hay Pokémon Favoritos",
+  "pokemonNotFound": "No se ha encontrado ningún Pokémon",
+  "pokemonLoadingError": "Erro al cargar Pokémon",
+  "error": "Error",
+  "physicalTraits": "Rasgos Físicos",
+  "baseStats": "Estadísticas Básicas",
+  "height": "Altura",
+  "weight": "Peso",
+  "pokeHP": "Vida",
+  "pokeAttack": "Ataque",
+  "pokeDefense": "Defensa",
+  "pokeSpeed": "Velocidad",
+  "pokeSpecialAttack": "Ataque Especial",
+  "pokeSpecialDefense": "Defensa Especial",
+  "everyType": "Todos",
+  "normal": "Normal",
+  "fire": "Fuego",
+  "grass": "Planta",
+  "water": "Agua",
+  "electric": "Elétrico",
+  "ice": "Hielo",
+  "fighting": "Lucha",
+  "poison": "Venenoso",
+  "ground": "Terrestre",
+  "flying": "Volador",
+  "psychic": "Psíquico",
+  "bug": "Insecto",
+  "rock": "Roca",
+  "ghost": "Fantasma",
+  "fairy": "Hada",
+  "dark": "Oscuro",
+  "dragon": "Dragón",
+  "steel": "Acero"
+}

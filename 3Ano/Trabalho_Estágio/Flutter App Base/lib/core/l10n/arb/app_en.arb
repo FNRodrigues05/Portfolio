@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "appTitle": "Counter App",
+  "greeting": "Hello, {name}!",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "targetReached": "Target Reached!",
+  "resetAttention": "Attention!",
+  "resetConfirm": "Reset Counter?",
+  "yes": "Yes",
+  "no": "No",
+  "pushMessage": "You have presse the button this many times:",
+  "settingsTitle": "Options",
+  "inputNameLabel": "Insert your name!",
+  "btnSave": "Save",
+  "btnClearData": "Clear Data"
+}

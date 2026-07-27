@@ -1,0 +1,22 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Counter App",
+  "greeting": "Olá, {name}!",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "targetReached": "Alvo atingido!",
+  "resetAttention": "Atenção!",
+  "resetConfirm": "Resetar o Contador?",
+  "yes": "Sim",
+  "no": "Não",
+  "pushMessage": "Pressionaste o botão este tanto de vezes:",
+  "settingsTitle": "Opções",
+  "inputNameLabel": "Insira o seu nome!",
+  "btnSave": "Guardar",
+  "btnClearData": "Limpar Dados"
+}
