@@ -3,4 +3,4 @@
 **/lib/threejs/** linguist-vendored
 
 # Ignorar ficheiros internos do motor de jogo (Unity/Mono)
-**/MonoBleedingEdge/** linguist-vendored
+**/MonoBleedingEdge/**/*.aspx linguist-vendored
