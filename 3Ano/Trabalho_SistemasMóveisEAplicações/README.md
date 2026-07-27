@@ -29,3 +29,4 @@ Este projeto foi desenvolvido no âmbito da unidade curricular de Sistemas Móve
 ## Autoria
 
 * Diogo Tavares (Nº 58049)
+* Francisco Rodrigues (Nº 59119)
