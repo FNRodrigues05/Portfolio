@@ -1,0 +1,4 @@
+"id_Autocarro";"Nº_assentos";"Id_Condutor";"Horário";"Matrícula";"Pista";"N_Passageiros";"Data_manutenção";"Nome_Passageiros";"N_Identificação_trabalhador";"N_viagens_por_mes"
+1;55;"34234";"14:50";"34-BF-91";"Évora";27;"2021-05-25";"João Manuel Santos";4302193;13
+13;35;"90341";"13:50";"76-DL-12";"Lisboa";23;"2021-05-25";"Maria Fátima Costa";3200123;12
+18;21;"12309";"07:30";"29-PQ-37";"Porto";16;"2021-05-25";"José Bico Ferreira";9612378;7

@@ -1,0 +1,4 @@
+"N_viagens_Por_Mes";"Ponto_partida";"Ponto_chegada";"Distância";"Hora_chegada";"Hora_partida";"Data_viagens";"Tempo_viagens";"id_autocarro";"Data_manutenção";"Recibo";"n_passageiros_por_mês"
+7;"Porto";"Évora";364;"12:30";"07:30";"2021-05-20";"5 horas";"18";"2021-05-20";"903123";760
+12;"Lisboa";"Porto";314;"17:30";"13:50";"2021-05-20";"4 horas";"13";"2021-05-20";"539012";329
+13;"Évora";"Lisboa";132;"16:30";"14:50";"2021-05-20";"2 horas";"1";"2021-05-20";"321590";954
